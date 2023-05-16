@@ -1,0 +1,3 @@
+Holder{civil_id=4105391, name=Tyam, tall=168.0, eye_color=grey}Account number is0101114105391 and the balance is 40000.0
+Holder{civil_id=5001963, name=Basmalla, tall=158.0, eye_color=Black}Account number is0101115001963 and the balance is 16000.0
+Holder{civil_id=6830014, name=Ali, tall=150.5, eye_color=Brown}Account number is0101116830014 and the balance is 25000.0

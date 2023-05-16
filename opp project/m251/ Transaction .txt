@@ -1,0 +1,6 @@
+Account{uniqueAccountNumber=0101116830014, H=Holder{civil_id=6830014, name=Ali, tall=150.5, eye_color=Brown}, balance=25000.0}
+The deposit  operation is successfully done  and the bew balance is 25000.0 Fri Dec 03 01:07:19 EET 2021
+Account{uniqueAccountNumber=0101115001963, H=Holder{civil_id=5001963, name=Basmalla, tall=158.0, eye_color=Black}, balance=16000.0}
+The withdrwal operation is successfully done ----and the new Balance is 6000.0 Fri Dec 03 01:07:19 EET 2021
+Account{uniqueAccountNumber=0101114105391, H=Holder{civil_id=4105391, name=Tyam, tall=168.0, eye_color=grey}, balance=40000.0}
+The Transfer operation is done successfully --- with transferd money is 10000.0 Fri Dec 03 01:07:19 EET 2021
